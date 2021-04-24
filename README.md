@@ -14,7 +14,7 @@ Au-delà des effets épidémiologiques très directs, la situation sanitaire act
  * HOMBOURGER Sophie, docteure en biologie/data analyst
  * BENDI-OUIS Yannis, ingénieur
  * LEDIEU Thibault, ingénieur
- * DUQUESNES Camille,M2 Sciences Digitales
+ * DUQUESNES Camille, M2 Sciences Digitales
  * BEN SLAMA Selim, M2 Sciences Digitales au Centre de Recherche Interdisciplinaires
  * LE CUNFF, Yann, enseignant-chercheur
 
