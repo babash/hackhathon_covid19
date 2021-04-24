@@ -1,0 +1,361 @@
+region,date,anxiete_target,depression_target,pbsommeil_target,hyg4mes_target,portmasque_target
+Auvergne-Rhône-Alpes,2021-04-05,0.22,0.19,0.66,0.46,0.23
+Auvergne-Rhône-Alpes,2021-04-12,,,,,
+Auvergne-Rhône-Alpes,2021-04-19,0.16,0.12,0.6,0.41,0.24
+Auvergne-Rhône-Alpes,2021-04-26,0.2,0.22,0.72,0.46,0.28
+Auvergne-Rhône-Alpes,2021-05-03,0.18,0.18,0.68,0.44,0.37
+Auvergne-Rhône-Alpes,2021-05-10,,,,,
+Auvergne-Rhône-Alpes,2021-05-17,0.18,0.13,0.65,0.46,0.49
+Auvergne-Rhône-Alpes,2021-05-24,0.15,0.13,0.64,0.42,0.49
+Auvergne-Rhône-Alpes,2021-05-31,0.11,0.09,0.67,0.43,0.54
+Auvergne-Rhône-Alpes,2021-06-07,0.17,0.12,0.63,0.37,0.51
+Auvergne-Rhône-Alpes,2021-06-14,,,,,
+Auvergne-Rhône-Alpes,2021-06-21,,,,,
+Auvergne-Rhône-Alpes,2021-06-28,0.14,0.1,0.63,0.39,0.51
+Auvergne-Rhône-Alpes,2021-07-05,,,,,
+Auvergne-Rhône-Alpes,2021-07-12,,,,,
+Auvergne-Rhône-Alpes,2021-07-19,,,,,
+Auvergne-Rhône-Alpes,2021-07-26,0.16,0.1,0.61,0.35,0.56
+Auvergne-Rhône-Alpes,2021-08-02,,,,,
+Auvergne-Rhône-Alpes,2021-08-09,0.17,0.15,0.66,0.4,0.5
+Auvergne-Rhône-Alpes,2021-08-16,,,,,
+Auvergne-Rhône-Alpes,2021-08-23,,,,,
+Auvergne-Rhône-Alpes,2021-08-30,0.15,0.09,0.66,0.31,0.66
+Auvergne-Rhône-Alpes,2021-09-06,,,,,
+Auvergne-Rhône-Alpes,2021-09-13,,,,,
+Auvergne-Rhône-Alpes,2021-09-20,,,,,
+Auvergne-Rhône-Alpes,2021-09-27,0.14,0.08,0.61,0.32,0.73
+Auvergne-Rhône-Alpes,2021-10-04,,,,,
+Auvergne-Rhône-Alpes,2021-10-11,,,,,
+Auvergne-Rhône-Alpes,2021-10-18,,,,,
+Auvergne-Rhône-Alpes,2021-10-25,0.2,0.13,0.69,0.41,0.82
+Bourgogne-Franche-Comté,2021-04-05,0.19,0.17,0.64,0.51,0.33
+Bourgogne-Franche-Comté,2021-04-12,,,,,
+Bourgogne-Franche-Comté,2021-04-19,0.18,0.18,0.61,0.45,0.17
+Bourgogne-Franche-Comté,2021-04-26,0.19,0.22,0.65,0.46,0.2
+Bourgogne-Franche-Comté,2021-05-03,0.16,0.22,0.7,0.45,0.32
+Bourgogne-Franche-Comté,2021-05-10,,,,,
+Bourgogne-Franche-Comté,2021-05-17,0.18,0.1,0.73,0.42,0.44
+Bourgogne-Franche-Comté,2021-05-24,0.21,0.1,0.61,0.4,0.45
+Bourgogne-Franche-Comté,2021-05-31,0.15,0.1,0.7,0.34,0.49
+Bourgogne-Franche-Comté,2021-06-07,0.19,0.11,0.72,0.31,0.41
+Bourgogne-Franche-Comté,2021-06-14,,,,,
+Bourgogne-Franche-Comté,2021-06-21,,,,,
+Bourgogne-Franche-Comté,2021-06-28,0.12,0.09,0.65,0.43,0.58
+Bourgogne-Franche-Comté,2021-07-05,,,,,
+Bourgogne-Franche-Comté,2021-07-12,,,,,
+Bourgogne-Franche-Comté,2021-07-19,,,,,
+Bourgogne-Franche-Comté,2021-07-26,0.13,0.09,0.55,0.35,0.69
+Bourgogne-Franche-Comté,2021-08-02,,,,,
+Bourgogne-Franche-Comté,2021-08-09,0.13,0.09,0.64,0.45,0.44
+Bourgogne-Franche-Comté,2021-08-16,,,,,
+Bourgogne-Franche-Comté,2021-08-23,,,,,
+Bourgogne-Franche-Comté,2021-08-30,0.12,0.11,0.59,0.41,0.73
+Bourgogne-Franche-Comté,2021-09-06,,,,,
+Bourgogne-Franche-Comté,2021-09-13,,,,,
+Bourgogne-Franche-Comté,2021-09-20,,,,,
+Bourgogne-Franche-Comté,2021-09-27,0.19,0.08,0.61,0.38,0.69
+Bourgogne-Franche-Comté,2021-10-04,,,,,
+Bourgogne-Franche-Comté,2021-10-11,,,,,
+Bourgogne-Franche-Comté,2021-10-18,,,,,
+Bourgogne-Franche-Comté,2021-10-25,0.15,0.11,0.64,0.35,0.75
+Bretagne,2021-04-05,0.19,0.19,0.64,0.45,0.17
+Bretagne,2021-04-12,,,,,
+Bretagne,2021-04-19,0.15,0.19,0.65,0.44,0.17
+Bretagne,2021-04-26,0.15,0.22,0.71,0.49,0.22
+Bretagne,2021-05-03,0.14,0.18,0.64,0.43,0.23
+Bretagne,2021-05-10,,,,,
+Bretagne,2021-05-17,0.18,0.1,0.65,0.46,0.43
+Bretagne,2021-05-24,0.15,0.11,0.62,0.38,0.39
+Bretagne,2021-05-31,0.13,0.08,0.52,0.43,0.39
+Bretagne,2021-06-07,0.12,0.05,0.58,0.36,0.42
+Bretagne,2021-06-14,,,,,
+Bretagne,2021-06-21,,,,,
+Bretagne,2021-06-28,0.16,0.14,0.6,0.33,0.57
+Bretagne,2021-07-05,,,,,
+Bretagne,2021-07-12,,,,,
+Bretagne,2021-07-19,,,,,
+Bretagne,2021-07-26,0.2,0.12,0.59,0.24,0.63
+Bretagne,2021-08-02,,,,,
+Bretagne,2021-08-09,0.08,0.07,0.55,0.32,0.37
+Bretagne,2021-08-16,,,,,
+Bretagne,2021-08-23,,,,,
+Bretagne,2021-08-30,0.14,0.14,0.65,0.35,0.66
+Bretagne,2021-09-06,,,,,
+Bretagne,2021-09-13,,,,,
+Bretagne,2021-09-20,,,,,
+Bretagne,2021-09-27,0.17,0.1,0.67,0.43,0.76
+Bretagne,2021-10-04,,,,,
+Bretagne,2021-10-11,,,,,
+Bretagne,2021-10-18,,,,,
+Bretagne,2021-10-25,0.22,0.17,0.57,0.36,0.82
+Centre-Val de Loire,2021-04-05,0.17,0.23,0.65,0.5,0.29
+Centre-Val de Loire,2021-04-12,,,,,
+Centre-Val de Loire,2021-04-19,0.23,0.18,0.68,0.5,0.22
+Centre-Val de Loire,2021-04-26,0.16,0.24,0.71,0.47,0.26
+Centre-Val de Loire,2021-05-03,0.18,0.13,0.68,0.48,0.34
+Centre-Val de Loire,2021-05-10,,,,,
+Centre-Val de Loire,2021-05-17,0.17,0.13,0.74,0.4,0.48
+Centre-Val de Loire,2021-05-24,0.17,0.08,0.59,0.41,0.53
+Centre-Val de Loire,2021-05-31,0.14,0.11,0.76,0.48,0.56
+Centre-Val de Loire,2021-06-07,0.2,0.08,0.64,0.34,0.52
+Centre-Val de Loire,2021-06-14,,,,,
+Centre-Val de Loire,2021-06-21,,,,,
+Centre-Val de Loire,2021-06-28,0.16,0.06,0.56,0.32,0.53
+Centre-Val de Loire,2021-07-05,,,,,
+Centre-Val de Loire,2021-07-12,,,,,
+Centre-Val de Loire,2021-07-19,,,,,
+Centre-Val de Loire,2021-07-26,0.12,0.12,0.69,0.38,0.64
+Centre-Val de Loire,2021-08-02,,,,,
+Centre-Val de Loire,2021-08-09,0.14,0.08,0.71,0.36,0.48
+Centre-Val de Loire,2021-08-16,,,,,
+Centre-Val de Loire,2021-08-23,,,,,
+Centre-Val de Loire,2021-08-30,0.15,0.13,0.57,0.32,0.72
+Centre-Val de Loire,2021-09-06,,,,,
+Centre-Val de Loire,2021-09-13,,,,,
+Centre-Val de Loire,2021-09-20,,,,,
+Centre-Val de Loire,2021-09-27,0.18,0.1,0.69,0.33,0.83
+Centre-Val de Loire,2021-10-04,,,,,
+Centre-Val de Loire,2021-10-11,,,,,
+Centre-Val de Loire,2021-10-18,,,,,
+Centre-Val de Loire,2021-10-25,0.13,0.12,0.63,0.41,0.8
+Grand-Est,2021-04-05,0.24,0.22,0.6,0.48,0.27
+Grand-Est,2021-04-12,,,,,
+Grand-Est,2021-04-19,0.17,0.18,0.63,0.43,0.2
+Grand-Est,2021-04-26,0.25,0.26,0.64,0.49,0.26
+Grand-Est,2021-05-03,0.2,0.24,0.65,0.42,0.4
+Grand-Est,2021-05-10,,,,,
+Grand-Est,2021-05-17,0.18,0.16,0.61,0.44,0.49
+Grand-Est,2021-05-24,0.2,0.1,0.69,0.49,0.52
+Grand-Est,2021-05-31,0.21,0.12,0.62,0.41,0.56
+Grand-Est,2021-06-07,0.2,0.1,0.67,0.39,0.6
+Grand-Est,2021-06-14,,,,,
+Grand-Est,2021-06-21,,,,,
+Grand-Est,2021-06-28,0.15,0.14,0.57,0.32,0.52
+Grand-Est,2021-07-05,,,,,
+Grand-Est,2021-07-12,,,,,
+Grand-Est,2021-07-19,,,,,
+Grand-Est,2021-07-26,0.18,0.11,0.65,0.43,0.64
+Grand-Est,2021-08-02,,,,,
+Grand-Est,2021-08-09,0.18,0.12,0.65,0.35,0.49
+Grand-Est,2021-08-16,,,,,
+Grand-Est,2021-08-23,,,,,
+Grand-Est,2021-08-30,0.24,0.16,0.68,0.35,0.72
+Grand-Est,2021-09-06,,,,,
+Grand-Est,2021-09-13,,,,,
+Grand-Est,2021-09-20,,,,,
+Grand-Est,2021-09-27,0.15,0.11,0.66,0.36,0.75
+Grand-Est,2021-10-04,,,,,
+Grand-Est,2021-10-11,,,,,
+Grand-Est,2021-10-18,,,,,
+Grand-Est,2021-10-25,0.21,0.14,0.62,0.4,0.78
+Hauts-de-France,2021-04-05,0.22,0.19,0.66,0.47,0.24
+Hauts-de-France,2021-04-12,,,,,
+Hauts-de-France,2021-04-19,0.23,0.2,0.68,0.44,0.21
+Hauts-de-France,2021-04-26,0.25,0.19,0.72,0.5,0.26
+Hauts-de-France,2021-05-03,0.16,0.16,0.68,0.43,0.24
+Hauts-de-France,2021-05-10,,,,,
+Hauts-de-France,2021-05-17,0.22,0.19,0.69,0.32,0.39
+Hauts-de-France,2021-05-24,0.19,0.13,0.65,0.42,0.5
+Hauts-de-France,2021-05-31,0.24,0.14,0.72,0.36,0.6
+Hauts-de-France,2021-06-07,0.2,0.13,0.63,0.34,0.48
+Hauts-de-France,2021-06-14,,,,,
+Hauts-de-France,2021-06-21,,,,,
+Hauts-de-France,2021-06-28,0.2,0.13,0.7,0.33,0.55
+Hauts-de-France,2021-07-05,,,,,
+Hauts-de-France,2021-07-12,,,,,
+Hauts-de-France,2021-07-19,,,,,
+Hauts-de-France,2021-07-26,0.21,0.13,0.72,0.34,0.62
+Hauts-de-France,2021-08-02,,,,,
+Hauts-de-France,2021-08-09,0.18,0.12,0.69,0.39,0.51
+Hauts-de-France,2021-08-16,,,,,
+Hauts-de-France,2021-08-23,,,,,
+Hauts-de-France,2021-08-30,0.27,0.17,0.7,0.29,0.7
+Hauts-de-France,2021-09-06,,,,,
+Hauts-de-France,2021-09-13,,,,,
+Hauts-de-France,2021-09-20,,,,,
+Hauts-de-France,2021-09-27,0.22,0.08,0.76,0.34,0.75
+Hauts-de-France,2021-10-04,,,,,
+Hauts-de-France,2021-10-11,,,,,
+Hauts-de-France,2021-10-18,,,,,
+Hauts-de-France,2021-10-25,0.23,0.19,0.61,0.35,0.84
+Normandie,2021-04-05,0.21,0.22,0.66,0.46,0.23
+Normandie,2021-04-12,,,,,
+Normandie,2021-04-19,0.26,0.2,0.72,0.51,0.25
+Normandie,2021-04-26,0.15,0.18,0.67,0.45,0.29
+Normandie,2021-05-03,0.28,0.26,0.75,0.36,0.29
+Normandie,2021-05-10,,,,,
+Normandie,2021-05-17,0.14,0.18,0.6,0.35,0.36
+Normandie,2021-05-24,0.16,0.11,0.64,0.39,0.47
+Normandie,2021-05-31,0.25,0.17,0.7,0.41,0.51
+Normandie,2021-06-07,0.16,0.09,0.78,0.41,0.54
+Normandie,2021-06-14,,,,,
+Normandie,2021-06-21,,,,,
+Normandie,2021-06-28,0.15,0.07,0.68,0.36,0.46
+Normandie,2021-07-05,,,,,
+Normandie,2021-07-12,,,,,
+Normandie,2021-07-19,,,,,
+Normandie,2021-07-26,0.23,0.11,0.58,0.45,0.57
+Normandie,2021-08-02,,,,,
+Normandie,2021-08-09,0.16,0.1,0.64,0.41,0.53
+Normandie,2021-08-16,,,,,
+Normandie,2021-08-23,,,,,
+Normandie,2021-08-30,0.15,0.07,0.7,0.3,0.72
+Normandie,2021-09-06,,,,,
+Normandie,2021-09-13,,,,,
+Normandie,2021-09-20,,,,,
+Normandie,2021-09-27,0.18,0.16,0.63,0.24,0.66
+Normandie,2021-10-04,,,,,
+Normandie,2021-10-11,,,,,
+Normandie,2021-10-18,,,,,
+Normandie,2021-10-25,0.23,0.17,0.65,0.35,0.79
+Nouvelle-Aquitaine,2021-04-05,0.18,0.18,0.62,0.46,0.28
+Nouvelle-Aquitaine,2021-04-12,,,,,
+Nouvelle-Aquitaine,2021-04-19,0.18,0.18,0.68,0.46,0.28
+Nouvelle-Aquitaine,2021-04-26,0.17,0.14,0.61,0.41,0.23
+Nouvelle-Aquitaine,2021-05-03,0.15,0.14,0.6,0.42,0.31
+Nouvelle-Aquitaine,2021-05-10,,,,,
+Nouvelle-Aquitaine,2021-05-17,0.15,0.11,0.72,0.41,0.42
+Nouvelle-Aquitaine,2021-05-24,0.18,0.12,0.6,0.4,0.5
+Nouvelle-Aquitaine,2021-05-31,0.12,0.11,0.64,0.41,0.56
+Nouvelle-Aquitaine,2021-06-07,0.12,0.07,0.56,0.28,0.45
+Nouvelle-Aquitaine,2021-06-14,,,,,
+Nouvelle-Aquitaine,2021-06-21,,,,,
+Nouvelle-Aquitaine,2021-06-28,0.17,0.1,0.61,0.34,0.56
+Nouvelle-Aquitaine,2021-07-05,,,,,
+Nouvelle-Aquitaine,2021-07-12,,,,,
+Nouvelle-Aquitaine,2021-07-19,,,,,
+Nouvelle-Aquitaine,2021-07-26,0.14,0.1,0.61,0.33,0.63
+Nouvelle-Aquitaine,2021-08-02,,,,,
+Nouvelle-Aquitaine,2021-08-09,0.14,0.1,0.6,0.31,0.48
+Nouvelle-Aquitaine,2021-08-16,,,,,
+Nouvelle-Aquitaine,2021-08-23,,,,,
+Nouvelle-Aquitaine,2021-08-30,0.17,0.09,0.63,0.29,0.7
+Nouvelle-Aquitaine,2021-09-06,,,,,
+Nouvelle-Aquitaine,2021-09-13,,,,,
+Nouvelle-Aquitaine,2021-09-20,,,,,
+Nouvelle-Aquitaine,2021-09-27,0.19,0.1,0.7,0.3,0.75
+Nouvelle-Aquitaine,2021-10-04,,,,,
+Nouvelle-Aquitaine,2021-10-11,,,,,
+Nouvelle-Aquitaine,2021-10-18,,,,,
+Nouvelle-Aquitaine,2021-10-25,0.14,0.14,0.64,0.4,0.78
+Occitanie,2021-04-05,0.21,0.18,0.65,0.52,0.3
+Occitanie,2021-04-12,,,,,
+Occitanie,2021-04-19,0.17,0.19,0.57,0.55,0.29
+Occitanie,2021-04-26,0.19,0.18,0.67,0.47,0.3
+Occitanie,2021-05-03,0.18,0.23,0.66,0.47,0.29
+Occitanie,2021-05-10,,,,,
+Occitanie,2021-05-17,0.13,0.14,0.64,0.46,0.49
+Occitanie,2021-05-24,0.19,0.13,0.67,0.4,0.54
+Occitanie,2021-05-31,0.19,0.14,0.68,0.43,0.46
+Occitanie,2021-06-07,0.17,0.1,0.65,0.33,0.44
+Occitanie,2021-06-14,,,,,
+Occitanie,2021-06-21,,,,,
+Occitanie,2021-06-28,0.11,0.08,0.6,0.32,0.52
+Occitanie,2021-07-05,,,,,
+Occitanie,2021-07-12,,,,,
+Occitanie,2021-07-19,,,,,
+Occitanie,2021-07-26,0.17,0.1,0.67,0.34,0.58
+Occitanie,2021-08-02,,,,,
+Occitanie,2021-08-09,0.12,0.1,0.66,0.36,0.49
+Occitanie,2021-08-16,,,,,
+Occitanie,2021-08-23,,,,,
+Occitanie,2021-08-30,0.17,0.11,0.58,0.25,0.63
+Occitanie,2021-09-06,,,,,
+Occitanie,2021-09-13,,,,,
+Occitanie,2021-09-20,,,,,
+Occitanie,2021-09-27,0.22,0.14,0.64,0.35,0.68
+Occitanie,2021-10-04,,,,,
+Occitanie,2021-10-11,,,,,
+Occitanie,2021-10-18,,,,,
+Occitanie,2021-10-25,0.22,0.18,0.66,0.31,0.74
+Pays de la Loire,2021-04-05,0.19,0.17,0.58,0.43,0.22
+Pays de la Loire,2021-04-12,,,,,
+Pays de la Loire,2021-04-19,0.18,0.14,0.66,0.41,0.19
+Pays de la Loire,2021-04-26,0.2,0.24,0.65,0.48,0.27
+Pays de la Loire,2021-05-03,0.13,0.16,0.58,0.42,0.26
+Pays de la Loire,2021-05-10,,,,,
+Pays de la Loire,2021-05-17,0.23,0.14,0.73,0.36,0.45
+Pays de la Loire,2021-05-24,0.16,0.14,0.6,0.3,0.48
+Pays de la Loire,2021-05-31,0.12,0.09,0.59,0.49,0.53
+Pays de la Loire,2021-06-07,0.13,0.1,0.67,0.27,0.33
+Pays de la Loire,2021-06-14,,,,,
+Pays de la Loire,2021-06-21,,,,,
+Pays de la Loire,2021-06-28,0.14,0.08,0.63,0.33,0.47
+Pays de la Loire,2021-07-05,,,,,
+Pays de la Loire,2021-07-12,,,,,
+Pays de la Loire,2021-07-19,,,,,
+Pays de la Loire,2021-07-26,0.14,0.07,0.7,0.33,0.58
+Pays de la Loire,2021-08-02,,,,,
+Pays de la Loire,2021-08-09,0.17,0.11,0.59,0.38,0.48
+Pays de la Loire,2021-08-16,,,,,
+Pays de la Loire,2021-08-23,,,,,
+Pays de la Loire,2021-08-30,0.24,0.15,0.73,0.37,0.68
+Pays de la Loire,2021-09-06,,,,,
+Pays de la Loire,2021-09-13,,,,,
+Pays de la Loire,2021-09-20,,,,,
+Pays de la Loire,2021-09-27,0.24,0.13,0.68,0.23,0.7
+Pays de la Loire,2021-10-04,,,,,
+Pays de la Loire,2021-10-11,,,,,
+Pays de la Loire,2021-10-18,,,,,
+Pays de la Loire,2021-10-25,0.16,0.08,0.65,0.34,0.77
+Provence-Alpes-Côte d'Azur,2021-04-05,0.2,0.17,0.64,0.52,0.32
+Provence-Alpes-Côte d'Azur,2021-04-12,,,,,
+Provence-Alpes-Côte d'Azur,2021-04-19,0.15,0.15,0.63,0.56,0.25
+Provence-Alpes-Côte d'Azur,2021-04-26,0.15,0.22,0.65,0.44,0.35
+Provence-Alpes-Côte d'Azur,2021-05-03,0.15,0.18,0.6,0.4,0.35
+Provence-Alpes-Côte d'Azur,2021-05-10,,,,,
+Provence-Alpes-Côte d'Azur,2021-05-17,0.19,0.14,0.64,0.48,0.47
+Provence-Alpes-Côte d'Azur,2021-05-24,0.14,0.12,0.6,0.48,0.6
+Provence-Alpes-Côte d'Azur,2021-05-31,0.14,0.11,0.62,0.38,0.56
+Provence-Alpes-Côte d'Azur,2021-06-07,0.14,0.11,0.67,0.35,0.43
+Provence-Alpes-Côte d'Azur,2021-06-14,,,,,
+Provence-Alpes-Côte d'Azur,2021-06-21,,,,,
+Provence-Alpes-Côte d'Azur,2021-06-28,0.16,0.13,0.7,0.41,0.49
+Provence-Alpes-Côte d'Azur,2021-07-05,,,,,
+Provence-Alpes-Côte d'Azur,2021-07-12,,,,,
+Provence-Alpes-Côte d'Azur,2021-07-19,,,,,
+Provence-Alpes-Côte d'Azur,2021-07-26,0.18,0.13,0.59,0.31,0.6
+Provence-Alpes-Côte d'Azur,2021-08-02,,,,,
+Provence-Alpes-Côte d'Azur,2021-08-09,0.18,0.09,0.66,0.31,0.4
+Provence-Alpes-Côte d'Azur,2021-08-16,,,,,
+Provence-Alpes-Côte d'Azur,2021-08-23,,,,,
+Provence-Alpes-Côte d'Azur,2021-08-30,0.15,0.09,0.57,0.3,0.61
+Provence-Alpes-Côte d'Azur,2021-09-06,,,,,
+Provence-Alpes-Côte d'Azur,2021-09-13,,,,,
+Provence-Alpes-Côte d'Azur,2021-09-20,,,,,
+Provence-Alpes-Côte d'Azur,2021-09-27,0.11,0.09,0.63,0.28,0.67
+Provence-Alpes-Côte d'Azur,2021-10-04,,,,,
+Provence-Alpes-Côte d'Azur,2021-10-11,,,,,
+Provence-Alpes-Côte d'Azur,2021-10-18,,,,,
+Provence-Alpes-Côte d'Azur,2021-10-25,0.21,0.12,0.66,0.42,0.74
+Île-de-France,2021-04-05,0.18,0.2,0.64,0.44,0.3
+Île-de-France,2021-04-12,,,,,
+Île-de-France,2021-04-19,0.18,0.2,0.62,0.47,0.27
+Île-de-France,2021-04-26,0.17,0.19,0.65,0.44,0.31
+Île-de-France,2021-05-03,0.22,0.21,0.69,0.44,0.4
+Île-de-France,2021-05-10,,,,,
+Île-de-France,2021-05-17,0.18,0.14,0.69,0.47,0.51
+Île-de-France,2021-05-24,0.16,0.13,0.61,0.42,0.55
+Île-de-France,2021-05-31,0.18,0.15,0.69,0.45,0.58
+Île-de-France,2021-06-07,0.2,0.13,0.68,0.38,0.6
+Île-de-France,2021-06-14,,,,,
+Île-de-France,2021-06-21,,,,,
+Île-de-France,2021-06-28,0.14,0.14,0.58,0.39,0.53
+Île-de-France,2021-07-05,,,,,
+Île-de-France,2021-07-12,,,,,
+Île-de-France,2021-07-19,,,,,
+Île-de-France,2021-07-26,0.19,0.16,0.67,0.37,0.63
+Île-de-France,2021-08-02,,,,,
+Île-de-France,2021-08-09,0.19,0.14,0.65,0.38,0.58
+Île-de-France,2021-08-16,,,,,
+Île-de-France,2021-08-23,,,,,
+Île-de-France,2021-08-30,0.15,0.11,0.65,0.31,0.71
+Île-de-France,2021-09-06,,,,,
+Île-de-France,2021-09-13,,,,,
+Île-de-France,2021-09-20,,,,,
+Île-de-France,2021-09-27,0.18,0.13,0.64,0.32,0.81
+Île-de-France,2021-10-04,,,,,
+Île-de-France,2021-10-11,,,,,
+Île-de-France,2021-10-18,,,,,
+Île-de-France,2021-10-25,0.17,0.2,0.65,0.35,0.8
