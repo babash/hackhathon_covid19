@@ -7,15 +7,15 @@ Au-delà des effets épidémiologiques très directs, la situation sanitaire act
 ## Présentation de l’équipe : son nom, ses membres, …
 
  * BAKALARA Johanne, doctorante
- * CONNES Victor, doctorant
+ * BENDI-OUIS Yannis, ingénieur
+ * BEN SLAMA Selim, M2 Sciences Digitales au Centre de Recherche Interdisciplinaires
+ * BUTON Nicolas, Doctorant
+ * CONNES Victor, doctorant 
+ * DUQUESNES Camille, M2 Sciences Digitales
  * GUYET Thomas, enseignant-chercheur
  * GUINCHARD Sarah, M2 Bio-informatique
- * BUTON Nicolas, Doctorant
  * HOMBOURGER Sophie, docteure en biologie/data analyst
- * BENDI-OUIS Yannis, ingénieur
  * LEDIEU Thibault, ingénieur
- * DUQUESNES Camille, M2 Sciences Digitales
- * BEN SLAMA Selim, M2 Sciences Digitales au Centre de Recherche Interdisciplinaires
  * LE CUNFF, Yann, enseignant-chercheur
 
 ## A quel(s) défi(s) votre projet répond-il ? Expliquez pourquoi.
